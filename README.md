@@ -1,2 +1,2 @@
 
-MERN Stack is the world-famous node.js framework.
+MERN Stack is the world-famous node.js framework
